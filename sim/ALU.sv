@@ -2,8 +2,6 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer: 
-// 
-// Create Date: 11/07/2025 04:59:58 PM
 // Design Name: Arithmetic Logic Unit (ALU)
 // Module Name: ALU
 // Project Name: 5-Stage Pipelined RISC-V Processor
